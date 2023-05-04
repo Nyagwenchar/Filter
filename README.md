@@ -1,24 +1,5 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+kuTTu-boT!;Created+by+GouthamSER!;A+simple+and+powerful+Bot!;Indexes+Files+above+2GB;A+Bot+with+double+button!;Start+message+with+pic!;And+more+features!)
-</p>
-<p align="center">
-  <img src="logo.jpg" alt="kuTTu">
-</p>
-<h1 align="center">
-  <b>kuTTu boT</b>
-</h1>
+AutoFilterBot
 
-<a href="https://t.me/wudixh1">
-  <img src="https://img.shields.io/badge/Join-blue?logo=telegram" width="70">
- 
- 
-
-[![Stars](https://img.shields.io/github/stars/GouthamSER/TelegramBot?style=flat-square&color=yellow)](https://github.com/GouthamSER/TelegramBot/stargazers)
-[![Forks](https://img.shields.io/github/forks/GouthamSER/TelegramBot?style=flat-square&color=orange)](https://github.com/GouthamSER/TelegramBot/fork)
-[![Size](https://img.shields.io/github/repo-size/GouthamSER/TelegramBot?style=flat-square&color=green)](https://github.com/GouthamSER/TelegramBot)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/GouthamSER/TelegramBot)   
-[![Contributors](https://img.shields.io/github/contributors/CrazyDeveloperTG/Doctor-Strange?style=flat-square&color=green)](https://github.com/GouthamSER/TelegramBot/graphs/contributors)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/GouthamSER/TelegramBot/blob/main/LICENSE)
-[![Sparkline](https://stars.medv.io/GouthamSER/TelegramBot.svg)](https://stars.medv.io/GouthamSER/TelegramBot)
 ## Features
 
 - [x] Auto Filter
@@ -57,15 +38,6 @@
 * `FILE_CHANNEL` : File redirect to channel
 * `DELETE_CHANNELS` : you can delete multiple files by forwarding those files into a private channel. Firstly make a private channel, add your bot as admin, add that channel's ID as a variable named DELETE_CHANNELS and forward the files to that private channel and the bot will delete those files from its database. You can check logs to confirm whether the file is deleted from the bot's database or not.
 ### Optional Variables
-
-## Credits
-<details>
-
- Thanks To [Mahesh](https://github.com/Mahesh0253/Media-Search-bot) MediaSearch
-
- Thanks To [Subinps](https://github.com/subinps/Media-Search-bot) AutoFilter & Base repo
- 
- Thanks To [Joelkb](https://github.com/Joelkb) Collaborator [Add Redirect feature,Error fixed, Add new features]
 
 
 </details>
